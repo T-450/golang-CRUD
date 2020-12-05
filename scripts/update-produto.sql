@@ -1,0 +1,1 @@
+UPDATE produtos SET nome = $1, descricao = $2, preco = $3, quantidade = $4 WHERE id=$5;

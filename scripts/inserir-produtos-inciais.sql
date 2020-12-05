@@ -1,0 +1,2 @@
+insert into produtos (nome, descricao , preco , quantidade) values ('Bermuda Preta', 'Uma bela bermuda', 10.99, 100)
+insert into produtos (nome, descricao , preco , quantidade) values ('Regata', 'Regata de Surfista', 3.99, 2)
